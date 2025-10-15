@@ -1,0 +1,1 @@
+# layer 2 connection to FRED datasets where we pass the data from the qwen25 and use them as weights to categorize and estimate which category which of these would fit into the dataset the federal reserve has available
