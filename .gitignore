@@ -1,3 +1,16 @@
 .venv
 .env
-.csv
+.csv*.csv \n
+todos.md \n
+EconomicIndex/ \n
+todos.md \n
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+.vscode/
+*.json
+*.txt
+*.log*.csv
+archive/
+todos/
+*__pycache__
